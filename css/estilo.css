@@ -1,0 +1,56 @@
+*{margin: 0PX;}
+.nivel1
+{
+    background-color:rgb(0, 116, 25);
+    padding: 20px;
+    border-style: dotted;
+    border-color: bisque;
+}
+.nivel2
+{
+    background-color: rgb(34, 156, 89);
+    padding: 20px;
+    padding: 30px 30px 40px 30px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 50px;
+}
+.nivel3
+{
+    background-color: rgb(55, 206, 113);
+    padding: 20px;
+    border-style: dotted;
+    border-color: bisque;
+}
+.nivel4
+{
+    background-color: rgb(30, 233, 91);
+    padding: 20px;
+    margin: 10px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 50px;
+}
+.nivel5
+{
+    background-color: yellow;
+    padding: 20px;
+    border-style: dotted;
+    border-color: bisque;
+}
+.nivel6
+{
+    background-color: rgb(71, 243, 186);
+    padding: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 50px;
+}
+.nivel7
+{
+    background-color: rgb(134, 226, 233);
+    padding: 20px;
+    margin: 10px;
+    border-style: dotted;
+    border-color: bisque;
+}
